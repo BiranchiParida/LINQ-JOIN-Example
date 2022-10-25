@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/LINQJOIN.csproj",
+      "projectUniqueName": "/Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/LINQJOIN.csproj",
       "projectName": "LINQJOIN",
-      "projectPath": "/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/LINQJOIN.csproj",
+      "projectPath": "/Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/LINQJOIN.csproj",
       "packagesPath": "/Users/biranchiranjanparida/.nuget/packages/",
-      "outputPath": "/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/",
+      "outputPath": "/Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/biranchiranjanparida/.nuget/NuGet/NuGet.Config"
