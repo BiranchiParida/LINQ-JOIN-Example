@@ -1,0 +1,16 @@
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/bin/Debug/net5.0/LINQJOIN
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/bin/Debug/net5.0/LINQJOIN.deps.json
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/bin/Debug/net5.0/LINQJOIN.runtimeconfig.json
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/bin/Debug/net5.0/LINQJOIN.runtimeconfig.dev.json
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/bin/Debug/net5.0/LINQJOIN.dll
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/bin/Debug/net5.0/LINQJOIN.pdb
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.csproj.AssemblyReference.cache
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.AssemblyInfoInputs.cache
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.AssemblyInfo.cs
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.csproj.CoreCompileInputs.cache
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.dll
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/Debug/net5.0/refint/LINQJOIN.dll
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.pdb
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.genruntimeconfig.cache
+/Users/biranchiranjanparida/Projects/LINQJOIN/LINQJOIN/obj/Debug/net5.0/ref/LINQJOIN.dll
