@@ -40,6 +40,8 @@ namespace LINQJOIN.Common
 
             new Employee2() {EmpId = 303, EmpDept = "Designing",
                                               EmpSalary = 60000},
+            new Employee2() {EmpId = 307, EmpDept = "Designing",
+                                              EmpSalary = 60000},
 
         };
         }
