@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BJwoz0zUFW9RK9joXM4gDH28XDHPiZlIFwW5DEYSOCdIrtCbOnAGVyGnu/PxTZHnevViUL+96A6JPoLpi9bO2g==",
+  "dgSpecHash": "J0EbcRuO9k8=",
   "success": true,
   "projectFilePath": "/Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/LINQJOIN.csproj",
   "expectedPackageFiles": [
+    "/Users/biranchiranjanparida/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/biranchiranjanparida/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/Users/biranchiranjanparida/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
-    "/Users/biranchiranjanparida/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "/Users/biranchiranjanparida/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

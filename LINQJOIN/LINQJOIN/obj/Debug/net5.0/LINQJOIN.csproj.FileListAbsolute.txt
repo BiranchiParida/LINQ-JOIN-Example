@@ -20,7 +20,6 @@
 /Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/bin/Debug/net5.0/LINQJOIN.runtimeconfig.dev.json
 /Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/bin/Debug/net5.0/LINQJOIN.dll
 /Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/bin/Debug/net5.0/LINQJOIN.pdb
-/Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.csproj.AssemblyReference.cache
 /Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.GeneratedMSBuildEditorConfig.editorconfig
 /Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.AssemblyInfoInputs.cache
 /Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.AssemblyInfo.cs
@@ -30,3 +29,4 @@
 /Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.pdb
 /Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.genruntimeconfig.cache
 /Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/obj/Debug/net5.0/ref/LINQJOIN.dll
+/Users/biranchiranjanparida/Documents/GitHub/LinqjoinExample/LINQJOIN/LINQJOIN/obj/Debug/net5.0/LINQJOIN.sourcelink.json

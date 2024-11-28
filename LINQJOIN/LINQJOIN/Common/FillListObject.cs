@@ -16,7 +16,6 @@ namespace LINQJOIN.Common
             new Employee() {EmpId = 301, EmpName = "Mohit", EmpLang = "C"},
 
             new Employee() {EmpId = 302, EmpName = "Sona", EmpLang = "Java"},
-
             new Employee() {EmpId = 303, EmpName = "Lana", EmpLang = "Java"},
 
             new Employee() {EmpId = 304, EmpName = "Lion", EmpLang = "C#"},

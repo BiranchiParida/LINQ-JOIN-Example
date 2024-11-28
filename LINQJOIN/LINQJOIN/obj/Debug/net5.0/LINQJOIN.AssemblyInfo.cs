@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQJOIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+472ce27ae8dde90cbdd6e60e51bda450984d2d8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQJOIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQJOIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
